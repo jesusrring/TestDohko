@@ -1,6 +1,11 @@
 .jumbotron {
-  background: rgb(80, 185, 171);
-  color: white;
+  background-image: url("images/libra back.jpg");
+  
+  height: 50%
+  ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding-bottom: 80px;
 }
 .jumbotron .btn-primary {
